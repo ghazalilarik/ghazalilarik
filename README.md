@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @ghazalilarik
+- 👀 I’m interested in Automation and Cyber Security Related Projects ...
+- 🌱 I’m currently studying in quest ...
+- 📫 larikghazali@gmail.com ...
+
+<!---
+ghazalilarik/ghazalilarik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
