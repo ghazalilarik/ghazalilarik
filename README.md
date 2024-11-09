@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm a tech enthusiast, cybersecurity buff, and a d
 
 ### 😆 A Little Humor to Brighten Your Day
 
-![GitHub Meme](https://i.imgur.com/jD5oKxA.jpg)
+![GitHub Meme](https://user-images.githubusercontent.com/7065401/120939183-5b34f300-c6da-11eb-99b4-3aa7d2f7a3db.png)
 
-*When you finally fix that bug after hours of debugging...*
+"It works on my machine!"
 
 ---
 
