@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a tech enthusiast, cybersecurity buff, and a d
 ### 🚀 About Me
 
 - 🔐 Cybersecurity student & enthusiast
-- 💻 Final year project: ESP32 multi-function device
 - 💡 Always eager to learn new things, especially in IT & cybersecurity
 - 🌍 Open-source lover, actively contributing and collaborating
 
