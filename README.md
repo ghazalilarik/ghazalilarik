@@ -17,13 +17,6 @@ Welcome to my GitHub profile! I'm a tech enthusiast, cybersecurity buff, and a d
 
 ![Ghazali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghazalilarik&show_icons=true&theme=radical)
 
----
-
-### 😆 A Little Humor to Brighten Your Day
-
-![GitHub Meme](https://user-images.githubusercontent.com/7065401/120939183-5b34f300-c6da-11eb-99b4-3aa7d2f7a3db.png)
-
-"It works on my machine!"
 
 ---
 
