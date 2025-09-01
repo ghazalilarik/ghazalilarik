@@ -1,8 +1,3 @@
-<!-- PROFILE BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&center=true&vCenter=true&width=800&lines=⚡+0xGhazali+%7C+Cyber+Security+%7C+Red+Team+%7C+Bug+Bounty;Automate.+Exploit.+Document.+Repeat." alt="0xGhazali header"/>
-</p>
-
 <p align="center">
   <a href="https://linkedin.com/in/0xghazali">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0xghazali-blue?logo=linkedin&logoColor=white">
