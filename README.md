@@ -9,22 +9,42 @@
 
 ---
 
-## 🧠 About
-**0xGhazali** — security-first mindset. I break things **ethically**, automate the boring, and write clean reports that ship fixes.  
-Areas I live in: **Offensive Security, Web/App Sec, Network Pentest, OSINT, Automation**.
+## 👋 Hi, I'm **0xGhazali**
 
-- 🔭 Current: Hardening labs, scaling recon pipelines, writing PoCs.
-- 🎯 Mission: **High-signal findings** with **zero noise**.
-- 📝 Motto: *“Automate. Exploit. Document. Repeat.”*
+Security-first mindset. I break things **ethically**, automate the boring stuff, and write clean reports that actually help teams fix issues.
+
+💻 **Domains I work in**
+- Offensive Security  
+- Web & Application Security  
+- Network & Active Directory Pentesting  
+- OSINT & Recon-at-scale  
+- Security Automation  
+
+---
+
+## 🧠 About Me
+- 🔭 **Current:** Hardening labs, scaling recon pipelines, writing PoCs  
+- 🎯 **Mission:** High-signal findings with **zero noise**  
+- 📝 **Motto:** *Automate. Exploit. Document. Repeat.*
 
 ---
 
 ## 🛠️ Toolbox
-**Recon & Exploit:** Nmap · Masscan · ffuf · Burp Suite · sqlmap · Metasploit · feroxbuster  
-**Blue/Analysis:** Wireshark · Suricata · Zeek · Volatility · YARA  
-**Scripting:** Python · Bash · PowerShell · Go (learning)  
-**Cloud/Infra:** Docker · Kubernetes (basics) · AWS (IAM, S3, EC2)  
-**OS:** Kali · Parrot · Ubuntu · Windows
+
+### 🔎 Recon & Exploitation
+Nmap · Masscan · ffuf · Burp Suite · sqlmap · Metasploit · feroxbuster  
+
+### 🛡️ Blue Team / Analysis
+Wireshark · Suricata · Zeek · Volatility · YARA  
+
+### 🧪 Scripting & Automation
+Python · Bash · PowerShell · Go (learning)  
+
+### ☁️ Cloud & Infra
+Docker · Kubernetes (basics) · AWS (IAM, S3, EC2)  
+
+### 🖥️ Operating Systems
+Kali · Parrot · Ubuntu · Windows  
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
@@ -38,27 +58,27 @@ Areas I live in: **Offensive Security, Web/App Sec, Network Pentest, OSINT, Auto
 ---
 
 ## ⚔️ What I Do
-- **Web/App Pentest:** AuthN/Z, IDOR, SSRF, RCE, race conditions, logic bugs  
-- **Network & AD:** Misconfigs, LLMNR/NTLM relay, Kerberoasting, BloodHound paths  
-- **Bug Bounty:** Recon-at-scale, wordlist tuning, custom fuzzers  
+- **Web / App Pentesting:** AuthN/AuthZ, IDOR, SSRF, RCE, race conditions, logic bugs  
+- **Network & AD:** Misconfigs, LLMNR/NTLM relay, Kerberoasting, BloodHound attack paths  
+- **Bug Bounty:** Recon at scale, wordlist tuning, custom fuzzers  
 - **Automation:** Small scripts → big wins (parsers, notifiers, diffing pipelines)
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghazalilarik&show_icons=true&hide_title=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=ghazalilarik" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghazalilarik&show_icons=true&hide_title=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=ghazalilarik" height="150"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazalilarik&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazalilarik&layout=compact" height="150"/>
 </p>
 
 ---
 
-## 📫 Reach
-- **LinkedIn:** <a href="https://linkedin.com/in/0xghazali">linkedin.com/in/0xghazali</a>  
-- **GitHub:** <a href="https://github.com/0xghazali">github.com/0xghazali</a>
+## 📫 Reach Me
+- **LinkedIn:** https://linkedin.com/in/ghazalilarik  
+- **GitHub:** https://github.com/ghazalilarik  
 
 ---
 
