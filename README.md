@@ -1,15 +1,15 @@
 <p align="center">
-  <a href="https://linkedin.com/in/0xghazali">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0xghazali-blue?logo=linkedin&logoColor=white">
+  <a href="https://linkedin.com/in/ghazalilarik">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ghazalilarik-blue?logo=linkedin&logoColor=white">
   </a>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=0xghazali&style=flat">
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=ghazalilarik&style=flat">
   <img alt="Focus" src="https://img.shields.io/badge/Focus-Cyber_Security-black?logo=probot">
   <img alt="Status" src="https://img.shields.io/badge/Status-Building-red?logo=rocket">
 </p>
 
 ---
 
-## 👋 Hi, I'm **0xGhazali**
+## 👋 Hi, I'm **Ghazali Larik**
 
 Security-first mindset. I break things **ethically**, automate the boring stuff, and write clean reports that actually help teams fix issues.
 
@@ -62,17 +62,6 @@ Kali · Parrot · Ubuntu · Windows
 - **Network & AD:** Misconfigs, LLMNR/NTLM relay, Kerberoasting, BloodHound attack paths  
 - **Bug Bounty:** Recon at scale, wordlist tuning, custom fuzzers  
 - **Automation:** Small scripts → big wins (parsers, notifiers, diffing pipelines)
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghazalilarik&show_icons=true&hide_title=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=ghazalilarik" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazalilarik&layout=compact" height="150"/>
-</p>
 
 ---
 
