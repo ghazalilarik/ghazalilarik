@@ -47,11 +47,11 @@ Areas I live in: **Offensive Security, Web/App Sec, Network Pentest, OSINT, Auto
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xghazali&show_icons=true&hide_title=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=0xghazali" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghazalilarik&show_icons=true&hide_title=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=ghazalilarik" height="150" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xghazali&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazalilarik&layout=compact" height="150" />
 </p>
 
 ---
